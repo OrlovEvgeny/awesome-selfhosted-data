@@ -1,0 +1,11 @@
+name: LynxDB
+website_url: https://lynxdb.org/
+description: Log analytics database in a single binary with columnar storage and a pipe-style query language.
+licenses:
+  - Apache-2.0
+platforms:
+  - Go
+tags:
+  - Analytics
+  - Search Engines
+source_code_url: https://github.com/lynxbase/lynxdb
